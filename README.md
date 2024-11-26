@@ -32,6 +32,10 @@
 | **Autonomous Driving Simulation** | Creating a modular pipeline for autonomous driving simulation and imitation learning.            | Python, Scipy, Numpy, Matplotlib, Gym                                   |
 | **Data Analysis in Traditional Korean Medicine** | Co-author of a research paper analyzing medical examination data using text mining and machine learning. | Python, Scikit-learn, NetworkX, Mecab, Pandas, Matplotlib               |
 
+# Career
+- **Spinai** (2024.01 - 2024.11)  
+- **Toss** (2024.12 - Present)
+
 # Education
 - **High School**: Anyang Foreign Language High School
 - **University**: Sogang University, Computer Science and Engineering
