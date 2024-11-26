@@ -2,18 +2,16 @@
 
 # Stack
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-007ACC?style=for-the-badge&logo=Hibernate&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-</p>
-<p>
   <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=Amazon ECR&logoColor=white">
   <img src="https://img.shields.io/badge/ECS Fargate-FF9900?style=for-the-badge&logo=Amazon ECS&logoColor=white">
   <img src="https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=Amazon CloudFront&logoColor=white">
