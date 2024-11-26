@@ -37,5 +37,5 @@
 - **Clubs**: LikeLion (10th and 11th Generation - Backend Developer and Organizer)
 - **Programs**: Samsung SDS Algorithm Camp
 
-# PS & GitHub Stats
+# PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)
