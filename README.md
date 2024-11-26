@@ -1,4 +1,4 @@
-# Undergraduate Projects
+# Undergraduate Major Projects
 | Project Name       | Description                                                                                  | Tech Stack                          |
 |--------------------|----------------------------------------------------------------------------------------------|-------------------------------------|
 | **[HemoChat](https://www.hemochat.net/)**       | Developing a platform for analyzing medical documents and providing chatbot services.                  | Django, Clova OCR API, OpenAI API, Redis, MySQL, AWS (RDS, S3, CloudFront, ECS Fargate, ECR) |
