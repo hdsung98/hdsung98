@@ -23,18 +23,18 @@
 </p>
 
 # Projects
-| Project Name       | Description                                                                 | Tech Stack                          |
-|--------------------|-----------------------------------------------------------------------------|-------------------------------------|
-| **HemoChat**       | A Django-based medical document analysis and chatbot system                 | Django, Clova OCR, OpenAI API      |
-| **STOCKer**        | An AI-powered stock price analysis system using Spring Boot and JPA         | Spring Boot, Python, JPA, AI model |
-| **Recruiting Site**| A recruiting platform using Django DRF and Kakao API                        | Django DRF, Kakao API              |
-| **OCR Preprocessor**| Preprocessing for OCR using OpenCV                                         | Python, OpenCV                     |
+| Project Name       | Description                                                                                  | Tech Stack                          |
+|--------------------|----------------------------------------------------------------------------------------------|-------------------------------------|
+| **Medical Document OCR and Chatbot Platform** | Developing a platform for analyzing medical documents and providing chatbot services.                  | Django, Clova OCR API, OpenAI API, Redis, MySQL, AWS (RDS, S3, CloudFront, ECS Fargate, ECR) |
+| **STOCKer**        | Analyzing stock price fluctuations and extracting reasons for changes with AI.              | Spring Boot, JPA, Python, OpenAI API, AWS (EC2, Route 53, ELB)          |
+| **Autonomous Driving Simulation** | Creating a modular pipeline for autonomous driving simulation and imitation learning.            | Python, Scipy, Numpy, Matplotlib, Gym                                   |
+| **Data Analysis in Traditional Korean Medicine** | Co-author of a research paper analyzing medical examination data using text mining and machine learning. | Python, Scikit-learn, NetworkX, Mecab, Pandas, Matplotlib               |
 
 # Education
 - **High School**: Anyang Foreign Language High School
 - **University**: Sogang University, Computer Science and Engineering
 - **Clubs**: LikeLion (10th and 11th Generation - Backend Developer and Organizer)
 - **Programs**: Samsung SDS Algorithm Camp
-
+  
 # PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)
